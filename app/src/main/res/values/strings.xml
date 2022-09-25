@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">elective2</string>
+    <string name="qpi">QPI Value</string>
+    <string name="equation">Equation</string>
+    <string name="a_btn">A</string>
+    <string name="bplus_btn">B+</string>
+    <string name="b_btn">B</string>
+    <string name="cplus_btn">C+</string>
+    <string name="c_btn">C</string>
+    <string name="d_btn">D</string>
+    <string name="f_btn">F/FD</string>
+    <string name="clear_btn">Clear</string>
+    <string name="equals_btn">=</string>
+    <string name="three_btn">3</string>
+    <string name="five_btn">5</string>
+    <string name="nine_btn">9</string>
+
+
+
+</resources>
